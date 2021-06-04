@@ -1,0 +1,18 @@
+window:
+    - 900
+    - 400
+
+scroll:
+    - 1000
+
+filename:
+    - "4k Hyper.osu"
+    
+keybinds:
+    - 'x'
+    - 'c'
+    - ','
+    - '.'
+
+offset:
+    - 20
